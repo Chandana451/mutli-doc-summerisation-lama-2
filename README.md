@@ -50,7 +50,4 @@ The central dogma describes how the genetic code in our DNA is converted into th
 - chaotic_seq.py - final python code (Dogma + Chaotic)
 - chaotic_seq.ipynb - final jupter notebook (Dogma + Chaotic)
 
-## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
-- **Repository :** https://github.com/saiabhiramjaini/Image-Encryption-Algorithm-Based-On-Genetic-Central-Dogma
